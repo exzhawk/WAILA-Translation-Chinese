@@ -6,3 +6,6 @@ screen.label.scale=Scale
 screen.label:dragtuto=Drag the HUD to setup its position.
 screen.bu"tt\on.default=Default
 screen.but ton.cancel=Cancel
+ascreen.label:dragtuto=position.
+ascreen.bu"tt\on.default=fault
+ascreen.but ton.cancel=Can
