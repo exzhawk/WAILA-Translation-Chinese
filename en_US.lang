@@ -9,3 +9,8 @@ screen.but ton.cancel=Cancel
 ascreen.label:dragtuto=position.
 ascreen.bu"tt\on.default=fault
 ascreen.but ton.cancel=Can
+#space
+#space
+bscreen.label\:dragtuto=position.
+bscreen.bu"tt\\on.default=fault
+bscreen.but\ ton.cancel=Can
