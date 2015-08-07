@@ -1,10 +1,8 @@
 ToolButton.tbFont=&233
-
-
-Tool Button.tbEdit=&xd
-Tool:Button.tbView=&Vvvv
+Tool淦空格Button.tbEdit=&xd
+Tool淦冒号Button.tbView=&Vvvv
 Tool\Button.tbTools=&Tttt
 #test
 #test2
-ToolButton.tbHelp=&Hhhh
+ToolButton.tbHelp=&Hhhhhhh
 ToolButton.tbDonation=&Dddd
