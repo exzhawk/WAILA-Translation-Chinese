@@ -1,10 +1,10 @@
-screen.button.waila=Waila233
-screen.button.modules=已加载模组
-screen.label.scale=Scale大小
-screen.label淦冒号dragtuto=拖动HUD来设置位置
-screen.bu"tt\on.default=Default默认
-screen.but淦空格ton.cancel=Cancel取消
-ascreen.label:233.
-ascreen.but test
-ascreen.bu"tt\on.default=333
-screen.label:wth.
+ToolButton.tbFont=&233
+
+
+Tool Button.tbEdit=&xd
+Tool:Button.tbView=&Vvvv
+Tool\Button.tbTools=&Tttt
+#test
+#test2
+ToolButton.tbHelp=&Hhhh
+ToolButton.tbDonation=&Dddd
