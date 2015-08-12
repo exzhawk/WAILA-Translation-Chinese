@@ -1,11 +1,5 @@
 ToolButton.tbFont=&Font
 
-
-Tool Button.tbEdit=&Edit
-Tool:Button.tbView=&View
-Tool\Button.tbTools=&Tools
-#test
-#test2
 ToolButton.tbHelp=&Help
 ToolButton.tbDonation=&Donation
 Tool2Button.tbDonation=&Do2nation
